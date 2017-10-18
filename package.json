@@ -1,0 +1,22 @@
+{
+  "name": "node_flashcards",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/innawu1/Node-Flashcards.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/innawu1/Node-Flashcards/issues"
+  },
+  "homepage": "https://github.com/innawu1/Node-Flashcards#readme",
+  "dependencies": {
+    "inquirer": "^3.3.0"
+  }
+}
